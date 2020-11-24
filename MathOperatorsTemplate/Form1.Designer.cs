@@ -37,7 +37,7 @@
             this.outputLabel.BackColor = System.Drawing.Color.Black;
             this.outputLabel.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outputLabel.ForeColor = System.Drawing.Color.Lime;
-            this.outputLabel.Location = new System.Drawing.Point(12, 13);
+            this.outputLabel.Location = new System.Drawing.Point(12, 19);
             this.outputLabel.Name = "outputLabel";
             this.outputLabel.Size = new System.Drawing.Size(326, 335);
             this.outputLabel.TabIndex = 0;
